@@ -1,6 +1,7 @@
 button{
+
     color: rgb(17, 4, 73);
-    background-color: goldenrod;
+    background-color: rgb(148, 150, 40);
 }
 #line{
     color: rgb(88, 1, 37);
@@ -13,7 +14,7 @@ button{
 }
 .topic{
     color: black;
-    font-size: xx-large;
+    font-size: x-large;
     font-weight: bold;
 }
 .content{
